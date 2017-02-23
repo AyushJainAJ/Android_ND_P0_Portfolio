@@ -1,3 +1,5 @@
-# Android_ND_P0_Portfolio
-This is a simple project with multiple buttons which display a toast on click.
-This is the first project submitted to Udacity for Android Nanodegree.
+# Portfolio
+## Udacity Android Nanodegree program
+### First project
+
+An application developed to showcase the different Android apps which will be built across the Nanodegree journey.
